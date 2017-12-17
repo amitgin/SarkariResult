@@ -1,0 +1,30 @@
+body {
+	margin:0;
+	padding:0;
+    font-family: PT Sans, arial, sans-serif !important;
+    font-size: 100%;
+}
+#top{
+	width:100%;
+	height:45px;
+	background-color:#e84c4c;
+	color:#FFF;
+	margin:0 auto;
+}
+#top p {
+	margin: 0 auto;
+    padding-top: 6px;
+    margin-left: 30px;
+}
+#maincontainer {
+	width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.home-page-content {
+	width:100%;
+	height:auto;
+	background:white;
+}
